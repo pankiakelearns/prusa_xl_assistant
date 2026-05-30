@@ -1,0 +1,6 @@
+{
+  "name": "TO Prototyping Lab Assistant",
+  "description": "An interactive 3D printing guide, settings estimator, and conversational troubleshooting assistant for the Prusa XL multi-toolhead printer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
